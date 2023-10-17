@@ -1,9 +1,18 @@
+
+
+
+
+
+https://github.com/soyaya/Comfy_shop/assets/35530721/71d088f1-35d5-4714-ab42-239183e6d2b2
+
+
+
+
 ## Useful Project Resources
 
 
 
 
-Uploading new_recording_-_10_17_2023,_12_10_19_pm (Original).mp4…
 
 
 - [Complete Project](https://react-vite-comfy-store-v2.netlify.app/)
